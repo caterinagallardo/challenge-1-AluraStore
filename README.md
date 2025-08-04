@@ -1,1 +1,1 @@
-# challenge1.AluraStore
+# challenge-1-AluraStore
