@@ -8,7 +8,7 @@ Este repositorio presenta la propuesta de solución al Reto de Alura Store, desa
 
 En este proyecto se examinan datos relacionados con ventas, categorías de productos, valoraciones de clientes, artículos más y menos demandados, y costos de envío. El objetivo es determinar cuál de las tiendas tiene menor eficiencia y elaborar una propuesta fundamentada en datos.
 
-# 🧩 Competencias Desarrolladas
+## 🧩 Competencias Desarrolladas
 
 -Importar y trabajar con archivos CSV usando Pandas
 -Elaborar gráficos y visualizaciones con Matplotlib
@@ -16,13 +16,13 @@ En este proyecto se examinan datos relacionados con ventas, categorías de produ
 -Planificar el proyecto utilizando Trello para organizar Tareas
 -Aplicar razonamiento analítico en la resolución de un problema real de negocio
 
-# 📊 Criterios del Reto
+## 📊 Criterios del Reto
 
 ☑️ Analizar y comparar el desempeño de las 4 tiendas
 ☑️ Incluir un mínimo de 3 visualizaciones relevantes (barras, pastel, dispersión, etc.)
 ☑️ Presentar una conclusión final respaldada por los datos
 
-# 🔧 Herramientas Empleadas
+## 🔧 Herramientas Empleadas
 
 -Python
 -Pandas
@@ -30,7 +30,7 @@ En este proyecto se examinan datos relacionados con ventas, categorías de produ
 -Google Colab
 -Trello (para seguimiento y organización del trabajo)
 
-# 📌 Conclusión
+## 📌 Conclusión
 
 El análisis indica que la Tienda 4 es la menos rentable, debido a:
 
